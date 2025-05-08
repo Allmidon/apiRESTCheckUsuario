@@ -4,23 +4,23 @@ using System.Runtime.InteropServices;
 
 // La información general sobre un ensamblado se controla mediante lo siguiente
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
-// asociada a un ensamblado.
+// asociada con un ensamblado.
 [assembly: AssemblyTitle("apiRESTCheckUsuario")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("HP Inc.")]
 [assembly: AssemblyProduct("apiRESTCheckUsuario")]
-[assembly: AssemblyCopyright("Copyright ©  2025")]
+[assembly: AssemblyCopyright("Copyright © HP Inc. 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Si configura ComVisible como falso, los tipos de este ensamblado no se hacen visibles
 // para componentes COM.  Si necesita acceder a un tipo de este ensamblado desde
-// COM, establezca el atributo ComVisible en true en este tipo.
+// COM, establezca el atributo ComVisible en True en este tipo.
 [assembly: ComVisible(false)]
 
-// El siguiente GUID es para el ID. typelib cuando este proyecto esté expuesto a COM
-[assembly: Guid("a90e04ab-6215-4f1f-9d5a-27a7c2aee4b6")]
+// El siguiente GUID sirve como ID de typelib si este proyecto se expone a COM
+[assembly: Guid("8755dcd0-0ed6-4f62-b3b1-4e4dcdef4cd7")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //
